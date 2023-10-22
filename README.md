@@ -1,2 +1,2 @@
-# csd-310-class-coding-assignments
+# csd-310
 
